@@ -44,4 +44,4 @@ An intelligent IoT solution that provides continuous cardiovascular monitoring f
 
   Click on the thumbnail to view the Demonstration video
 
-[![YouTube Video Thumbnail](https://img.youtube.com/vi/qHUhEyc6Nj8/0.jpg)](https://www.youtube.com/watch?v=qHUhEyc6Nj8)
+[![YouTube Video Thumbnail](https://img.youtube.com/vi/fix67PZ5PTg/0.jpg)](https://youtu.be/fix67PZ5PTg)
